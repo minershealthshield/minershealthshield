@@ -3,6 +3,12 @@
 The main branch contains the code for the deployed page and a QR code. 
 ### Backend Branch
 [[Backend Branch](https://github.com/minershealthshield/minershealthshield/tree/Backend)] contains the code for the API.
+
+### Smartcontract Branch
+[[SmartContracts Branch](https://github.com/minershealthshield/minershealthshield/tree/SmartContracts)] contains the code for the Smart contracts.
+### Frontend Branch
+[[Frontend Branch](https://github.com/minershealthshield/minershealthshield/tree/Frontend)] contains the code for the Desktop app.
+
 ### Link to Deployed Page 
 [[Link to Deployed Page](https://minershealthshield.online/)]
 ### Nomo plugin QR code
